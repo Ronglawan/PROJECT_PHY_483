@@ -4,7 +4,7 @@
 This project uses deep learning to classify electric vehicle battery quality based on manufacturing data.
 
 ## Dataset
-EV Battery QC Dataset (Synthetic)
+The dataset contains 20,000 EV battery samples with manufacturing features such as temperature, capacity, resistance, and electrolyte volume.
 
 ## Objective
 To classify battery quality into:
