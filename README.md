@@ -9,6 +9,7 @@ ________________________________________________________________________________
 # 📊 Dataset
 
 The dataset contains 20,000 EV battery samples with manufacturing features such as:
+
 	•	Temperature
 	•	Capacity
 	•	Internal Resistance
@@ -19,6 +20,7 @@ ________________________________________________________________________________
 # 🎯 Objective
 
 The objective of this project is to develop an AI-based model to classify battery quality into three categories:
+
 	•	Grade A
 	•	Grade B
 	•	Scrap
