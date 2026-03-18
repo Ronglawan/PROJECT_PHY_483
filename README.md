@@ -1,12 +1,12 @@
-##🔋 EV Battery Quality Classification Using AI
+# 🔋 EV Battery Quality Classification Using AI
 __________________________________________________________________________________
-##📌 Project Description
+# 📌 Project Description
 
 This project uses deep learning techniques to classify electric vehicle (EV) battery quality based on manufacturing data. The goal is to support automated quality control by predicting battery conditions accurately.
 
 __________________________________________________________________________________
 
-##📊 Dataset
+# 📊 Dataset
 
 The dataset contains 20,000 EV battery samples with manufacturing features such as:
 	•	Temperature
@@ -16,7 +16,7 @@ The dataset contains 20,000 EV battery samples with manufacturing features such 
 
 __________________________________________________________________________________
 
-##🎯 Objective
+# 🎯 Objective
 
 The objective of this project is to develop an AI-based model to classify battery quality into three categories:
 	•	Grade A
@@ -25,7 +25,7 @@ The objective of this project is to develop an AI-based model to classify batter
 
 __________________________________________________________________________________
 
-##🛠 Tools
+# 🛠 Tools
 	•	Python
 	•	TensorFlow / Keras
 	•	Scikit-learn
@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________
 
-##⚙️ Methods
+# ⚙️ Methods
 	1.	Data preprocessing
 	2.	Feature selection
 	3.	Deep learning model development
@@ -42,12 +42,12 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________
 
-##🎯 Target Variable
+# 🎯 Target Variable
 	•	QC_Grade
 
 __________________________________________________________________________________
 
-##👤 Author
+# 👤 Author
 
 PHY483 AI Project
 :::
