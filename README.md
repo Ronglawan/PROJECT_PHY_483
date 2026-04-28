@@ -1,31 +1,22 @@
 # 🔋 Comparative Analysis of Deep Learning and Random Forest for EV Battery Quality Classification
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
 # 📌 Project Description
-
 This project conducts a comparative analysis between Deep Learning (Keras/TensorFlow) and Random Forest (Scikit-learn) techniques to classify electric vehicle (EV) battery quality based on manufacturing data. The goal is to support automated quality control by accurately predicting battery conditions.
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
 # 📊 Dataset
-
 The dataset contains 20,000 EV battery samples with critical manufacturing features, including:
-
 	•	Temperature (Ambient)
 	•	Capacity (mAh)
 	•	Internal Resistance (mOhm)
 	•	Electrolyte Volume (ml)
 	•	Other process parameters
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
 # 🎯 Objective
-
 To develop and compare AI-based models to classify battery quality into three categories:
-
 	•	Grade A
 	•	Grade B
 	•	Scrap
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
 # 🛠 Tools
 	•	Python
 	•	TensorFlow / Keras
@@ -33,7 +24,6 @@ ________________________________________________________________________________
 	•	Pandas
 	•	Matplotlib
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
 # ⚙️ Methods
 	1.	Data preprocessing & Cleaning
 	2.	Feature selection & Data Normalization
@@ -41,25 +31,16 @@ ________________________________________________________________________________
 	4.	Random Forest development
 	5.	Model Comparison & Evaluation
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
 # 🎯 Target Variable
 	•	QC_Grade
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
 # 💡 Key Findings
-	
-	•	**Model Performance:** Random Forest achieved an accuracy of 100%, while Deep Learning achieved 98.38%.
-
-	•	**Feature Importance:** Anode_Overhang_mm was identified as the most significant feature influencing battery quality classification.
+	•	Model Performance: Random Forest achieved an accuracy of 100%, while Deep Learning achieved 98.38%.
+	•	Feature Importance: Anode_Overhang_mm was identified as the most significant feature influencing battery quality classification.
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
 # 💻 Source Code
 [View the full analysis in Jupyter Notebook](MINI_PROJECT_PHY_483.ipynb)
-
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
 # 👤 Author
-
 PHY483 AI Project
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::
