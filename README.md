@@ -51,6 +51,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________
 
 #💡 Key Findings
+	
 	•	Model Performance: Random Forest achieved an accuracy of 100%, while Deep Learning achieved 98.38%.
 
 	•	Feature Importance: Anode_Overhang_mm was identified as the most significant feature influencing battery quality classification.
