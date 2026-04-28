@@ -50,7 +50,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________
 
-#💡 Key Findings
+# 💡 Key Findings
 	
 	•	Model Performance: Random Forest achieved an accuracy of 100%, while Deep Learning achieved 98.38%.
 
