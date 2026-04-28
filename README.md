@@ -2,24 +2,24 @@
 __________________________________________________________________________________
 # 📌 Project Description
 
-This project uses deep learning techniques to classify electric vehicle (EV) battery quality based on manufacturing data. The goal is to support automated quality control by predicting battery conditions accurately.
-
+This project conducts a comparative analysis between Deep Learning (Keras/TensorFlow) and Random Forest (Scikit-learn) techniques to classify electric vehicle (EV) battery quality based on manufacturing data. The goal is to support automated quality control by accurately predicting battery conditions.
 __________________________________________________________________________________
 
 # 📊 Dataset
 
-The dataset contains 20,000 EV battery samples with manufacturing features such as:
+The dataset contains 20,000 EV battery samples with critical manufacturing features, including:
 
-	•	Temperature
-	•	Capacity
-	•	Internal Resistance
-	•	Electrolyte Volume
+	•	Temperature (Ambient)
+	•	Capacity (mAh)
+	•	Internal Resistance (mOhm)
+	•	Electrolyte Volume (ml)
+	•	Other process parameters
 
 __________________________________________________________________________________
 
 # 🎯 Objective
 
-The objective of this project is to develop an AI-based model to classify battery quality into three categories:
+To develop and compare AI-based models to classify battery quality into three categories:
 
 	•	Grade A
 	•	Grade B
@@ -37,10 +37,11 @@ ________________________________________________________________________________
 __________________________________________________________________________________
 
 # ⚙️ Methods
-	1.	Data preprocessing
-	2.	Feature selection
-	3.	Deep learning model development
-	4.	Model evaluation
+	1.	Data preprocessing & Cleaning
+	2.	Feature selection & Data Normalization
+	3.	Deep Learning model development
+	4.	Random Forest development
+	5.	Model Comparison & Evaluation
 
 __________________________________________________________________________________
 
@@ -49,6 +50,11 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________
 
+#💡 Key Findings
+	•	Model Performance: Random Forest achieved an accuracy of 100%, while Deep Learning achieved 98.38%.
+
+	•	Feature Importance: Anode_Overhang_mm was identified as the most significant feature influencing battery quality classification.
+__________________________________________________________________________________
 # 👤 Author
 
 PHY483 AI Project
