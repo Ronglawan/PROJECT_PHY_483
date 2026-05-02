@@ -1,4 +1,4 @@
-# 🔋 Comparative Analysis of Deep Learning and Random Forest for EV Battery Quality Classification
+# 🔋 EV Battery Quality Classification & Predictive Modeling
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 # 📌 Project Description
 This project conducts a comparative analysis between Deep Learning (Keras/TensorFlow) and Random Forest (Scikit-learn) techniques to classify electric vehicle (EV) battery quality based on manufacturing data. The goal is to support automated quality control by accurately predicting battery conditions.
